@@ -1,6 +1,6 @@
 # Unit Testing — Домашнее задание Нетологии (Чистые функции)
 
-[![CI](https://github.com/SenTech-666/Unit--/actions/workflows/ciyml/badge.svg)](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml)
+[![CI](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml/badge.svg)](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml)
 
 ## Описание
 
