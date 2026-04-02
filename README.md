@@ -1,4 +1,4 @@
-[<image-card alt="CI" src="https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml/badge.svg" ></image-card>](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml)
+[![CI](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml/badge.svg)](https://github.com/SenTech-666/Unit--/actions/workflows/ci.yml)
 # Unit Testing — Домашнее задание Нетологии (Чистые функции)
 
 
