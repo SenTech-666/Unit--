@@ -19,8 +19,8 @@ module.exports = {
     'semi': ['error', 'always'],
     'quotes': ['error', 'single'],
     'indent': ['error', 2],
-    'space-infix-ops': 'error',        // добавлено
-    'eol-last': ['error', 'always']    // добавлено
+    'space-infix-ops': 'error',
+    'eol-last': ['error', 'always']
   },
   overrides: [
     {
