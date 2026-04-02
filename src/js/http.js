@@ -5,4 +5,3 @@ export function httpGet(url) {
 export function httpPost(url) {
   throw new Error(url);
 }
-
